@@ -172,7 +172,7 @@ if __name__ == '__main__':
     true_omega = 0.1
     true_alpha = 0.05
     true_beta  = 0.9
-    T = 1000
+    T = 10000
     n_series = 3 # Number of series to simulate and fit
 
     for sim in range(n_series):
